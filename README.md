@@ -2,7 +2,7 @@
   
 # 👋 Hi, It's Amir;
 
-### A Software Frontend Engineer
+### A Software Engineer
 
 <p align="center">
   <a href="mailto:amirwebd3v@gmail.com"><img src="https://img.shields.io/badge/Email-amirwebd3v@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -15,9 +15,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate Frontend Engineer based in **Germany** 🇩🇪, specializing in building modern, scalable web applications with **React** and **Vue.js**. I believe in the power of clean code, continuous learning, and collaborative development.
+I'm a passionate Software Engineer based in **Germany** 🇩🇪, specializing in building modern, secure and scalable web applications using AI Agents. I believe in the power of clean code, continuous learning, and collaborative development.
 
-- 🔭 Currently working with **React**, **Astro**, **Vue**, **Nuxt**, **Tailwind**
+- 🔭 Working with **React**, **Python**, **Nuxt**
 - 💡 Strong advocate for **TypeScript** and type-safe development
 - 🤝 Open to collaborating on innovative and impactful projects
 
@@ -48,8 +48,8 @@ I'm a passionate Frontend Engineer based in **Germany** 🇩🇪, specializing i
 ### Database & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 📊 GitHub Statistics
@@ -70,34 +70,13 @@ I'm a passionate Frontend Engineer based in **Germany** 🇩🇪, specializing i
 </div>
 
 
-
----
-
-## 💼 What I Do
-
-```typescript
-const amir = {
-  role: "Frontend Developer",
-  location: "Germany 🇩🇪",
-  expertise: ["React", "Vue.js", "Astro", "Nuxt.js", "TypeScript"],
-  currentStack: ["React", "Astro", "Vue", "Nuxt",],
-  currentFocus: "Developmemt by AI-Agents",
-  interests: ["Communications", "UI/UX Design", "Performance Optimization", "Vibe Coding", "Challenges"],
-  collaboration: "Always open to interesting projects!",
-  
-  getInTouch: () => {
-    return "amirwebd3v@gmail.com";
-  }
-};
-```
-
 ---
 
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with fellow developers and exploring collaboration opportunities. Feel free to reach out if you want to:
 
-- 💬 Discuss frontend development and AI
+- 💬 Discuss software development and AI
 - 🚀 Collaborate on innovative projects
 - 🎯 Share knowledge and best practices
 - 📧 Just say hi!
